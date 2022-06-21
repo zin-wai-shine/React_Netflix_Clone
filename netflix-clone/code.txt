@@ -1,0 +1,7 @@
+.... TMDB/movies link/key/api
+
+    https://www.themoviedb.org/settings/api
+
+    // e39d0e0e37f33c6ccc3203e1e9094d86
+
+    // https://api.themoviedb.org/3/movie/550?api_key=e39d0e0e37f33c6ccc3203e1e9094d86
